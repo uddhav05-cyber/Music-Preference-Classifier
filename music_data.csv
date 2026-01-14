@@ -1,0 +1,9 @@
+age,gender,mood,language,genre
+18,0,Happy,English,Pop
+22,1,Energetic,English,Rock
+25,0,Happy,Hindi,Pop
+30,1,Chill,English,Jazz
+35,1,Sad,English,Classical
+40,0,Chill,Hindi,Classical
+28,1,Energetic,Hindi,Rock
+21,0,Sad,English,Indie
